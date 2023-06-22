@@ -11,7 +11,6 @@ You can subscribe this channel if you find it helpful.
 - 📫 How to reach me: ...Youtube Channel: [https://youtube.com/@azadMalikRohit]
 - 😄 Pronouns: ... HEHE
 - ⚡ Fun fact: ... I Love Classic Novels
-<img src = "https://github-readme-stats.vercel.app/api?username=rohitazad&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 
