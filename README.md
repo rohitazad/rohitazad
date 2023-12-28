@@ -2,6 +2,8 @@
 
 I'm Rohit Azad Malik, a passionate creator specializing in Frontend Web Development, particularly in React.js/Next.js/Node.js. I love sharing insights and tutorials through engaging YouTube videos and actively participate in various developer communities.
 
+🎥 **YouTube Channel:** [Subscribe to my channel](https://youtube.com/@azadMalikRohit) for tutorials, tips, and tricks in Frontend Development.
+
 ## About Me
 I'm on a perpetual quest to craft immersive web experiences using HTML, CSS, JavaScript, and cutting-edge frameworks like React.js and Next.js. I believe in constantly evolving my skills to deliver intuitive interfaces and seamless user experiences.
 
@@ -13,6 +15,9 @@ Venturing deeper into Next.js and immersing myself in Node.js programming to bol
 
 ### 💬 Ask Me About
 Anything related to HTML, CSS, JavaScript, Bootstrap, SASS, React.js, or Next.js! I'm enthusiastic about sharing knowledge and assisting others in their development journey.
+
+### 📫 How to Reach Me
+Catch me on my [YouTube Channel](https://youtube.com/@azadMalikRohit) for content updates and discussions on web development.
 
 ### 📫 Connect With Me
 Catch me on various platforms:
