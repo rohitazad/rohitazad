@@ -26,4 +26,8 @@ Catch me on various platforms:
 ### 😄 Fun Fact
 I indulge in classic novels, exploring diverse eras and cultures through timeless literature.
 
+## Some of my Github Stats
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=rohitazad&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/rohitazad/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=rohitazad&layout=compact)](https://github.com/rohitazad/github-readme-stats)
+
 Let's embark on an exciting journey through frontend development together! Feel free to subscribe to my YouTube channel and connect on various platforms for a rich exchange of ideas. 🚀
