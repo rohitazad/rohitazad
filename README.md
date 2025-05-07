@@ -1,38 +1,90 @@
-# Hey there! 👋
+<h1 align="center">Hey there! 👋 I'm Rohit Azad Malik</h1>
 
-I'm Rohit Azad Malik, a passionate creator specializing in Frontend Web Development, particularly in React.js/Next.js/Node.js. I love sharing insights and tutorials through engaging YouTube videos and actively participate in various developer communities.
+<p align="center">
+  🎯 Frontend Developer | 📹 YouTuber | 🛠️ React.js / Next.js / Node.js Enthusiast
+</p>
 
-🎥 **YouTube Channel:** [Subscribe to my channel](https://youtube.com/@azadMalikRohit) for tutorials, tips, and tricks in Frontend Development.
+<p align="center">
+  <a href="https://youtube.com/@azadMalikRohit"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/rohitazad/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" /></a>
+  <a href="https://twitter.com/rohitazad"><img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=flat-square" /></a>
+  <a href="https://github.com/rohitazad"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=flat-square" /></a>
+  <a href="https://stackoverflow.com/users/1365428/rohit-azad-malik"><img src="https://img.shields.io/badge/StackOverflow-Ask/Answer-orange?logo=stackoverflow&style=flat-square" /></a>
+  <a href="https://whatsapp.com/channel/0029VaALciC1XquP3TxeVn0l"><img src="https://img.shields.io/badge/WhatsApp-Join-green?logo=whatsapp&style=flat-square" /></a>
+</p>
 
-## About Me
-I'm on a perpetual quest to craft immersive web experiences using HTML, CSS, JavaScript, and cutting-edge frameworks like React.js and Next.js. I believe in constantly evolving my skills to deliver intuitive interfaces and seamless user experiences.
+---
 
-### 🔭 Currently Working On
-My projects involve HTML, CSS, JavaScript, jQuery, Bootstrap, Sass, React.js, Node.js, Next.js, and more. Always exploring innovative concepts to push the boundaries of frontend development.
+## 👨‍💻 About Me
 
-### 🌱 Currently Learning
-Venturing deeper into Next.js and immersing myself in Node.js programming to bolster my backend capabilities and build robust applications.
+I'm a passionate Frontend Web Developer crafting immersive digital experiences using **React.js**, **Next.js**, **Node.js**, and modern JavaScript frameworks.  
+I love simplifying complex topics for learners and developers through **engaging YouTube tutorials**, hands-on demos, and insightful posts.
 
-### 💬 Ask Me About
-Anything related to HTML, CSS, JavaScript, Bootstrap, SASS, React.js, Node.js, or Next.js! I'm enthusiastic about sharing knowledge and assisting others in their development journey.
+---
 
-### 📫 How to Reach Me
-Catch me on my [YouTube Channel](https://youtube.com/@azadMalikRohit) for content updates and discussions on web development.
+## 🚀 Tech Stack & Tools
 
-### 📫 Connect With Me
-Catch me on various platforms:
-- 💬 **WhatsApp Channel:** [Join my WhatsApp Channel](https://whatsapp.com/channel/0029VaALciC1XquP3TxeVn0l) for discussions and quick updates.
-- 🐦 **Twitter:** [Follow me on Twitter](https://twitter.com/rohitazad) for bite-sized development insights and industry trends.
-- 📘 **Facebook:** [Connect on Facebook](https://www.facebook.com/rohitazadmalik/) for community interactions and updates.
-- 💼 **LinkedIn:** [Find me on LinkedIn](https://www.linkedin.com/in/rohitazad/) for professional networking and collaboration opportunities.
-- 🌐 **GitHub:** [Explore my projects on GitHub](https://github.com/rohitazad) to dive into my code and contributions.
-- 💻 **Stack Overflow:** [Check out my profile on Stack Overflow](https://stackoverflow.com/users/1365428/rohit-azad-malik) for tech Q&A and sharing knowledge.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![SASS](https://img.shields.io/badge/Sass-hotpink?logo=sass&logoColor=white&style=flat)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
-### 😄 Fun Fact
-I indulge in classic novels, exploring diverse eras and cultures through timeless literature.
+---
 
-## Some of my Github Stats
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=rohitazad&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/rohitazad/github-readme-stats)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=rohitazad&layout=compact)](https://github.com/rohitazad/github-readme-stats)
+## 📚 Currently Learning
 
-Let's embark on an exciting journey through frontend development together! Feel free to subscribe to my YouTube channel and connect on various platforms for a rich exchange of ideas. 🚀
+- Diving deeper into **Next.js 14** (App Router, Dynamic Routing, Group Routing, etc.)
+- Enhancing backend skills with **Node.js** and **Express**
+- Exploring modern testing tools and performance optimization techniques
+
+---
+
+## 💬 Ask Me About
+
+`HTML` · `CSS/SCSS` · `JavaScript` · `React.js` · `Next.js` · `Node.js` · `Frontend Architecture`  
+I'm always happy to help others learn and grow in the web development world! 🌱
+
+---
+
+## 🎥 YouTube Channel
+
+📺 **[Learn Coding with Bhai](https://youtube.com/@azadMalikRohit)**  
+Sharing high-quality tutorials on real-world projects, React/Next.js, problem-solving, and dev insights in Hindi 🇮🇳  
+👉 _Subscribe and turn on the bell icon to never miss a new video!_
+
+---
+
+## 🔗 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohitazad/)
+- 🐦 [Twitter](https://twitter.com/rohitazad)
+- 💬 [WhatsApp Channel](https://whatsapp.com/channel/0029VaALciC1XquP3TxeVn0l)
+- 🌐 [GitHub](https://github.com/rohitazad)
+- 📘 [Facebook](https://www.facebook.com/rohitazadmalik/)
+- 🧠 [Stack Overflow](https://stackoverflow.com/users/1365428/rohit-azad-malik)
+
+---
+
+## ⚡ Fun Fact
+
+I love exploring classic novels 📚 — diving into timeless stories that reflect diverse eras, cultures, and philosophies.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-axpwmfcg3.vercel.app/api?username=rohitazad&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=rohitazad&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+---
+
+<p align="center"><b>Let's build and learn together. Happy coding! 🚀</b></p>
